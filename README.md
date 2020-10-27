@@ -13,7 +13,7 @@
 
 ## My Trophies
 [![Jordan's Tophies](https://github-profile-trophy.vercel.app/?username=jordy1611&theme=vue)](https://github.com/jordy1611/github-profile-trophy)
-[![Jordan's Tophies](https://github-profile-trophy.vercel.app/?username=jordy1611&title=Commit,Issues,PullRequest,Repository,Joined2020&theme=vue)](https://github.com/jordy1611/github-profile-trophy)
+[![Jordan's Tophies](https://github-profile-trophy.vercel.app/?username=jordy1611&title=Commit,Issues,PullRequest,Repository,Joined2020,Stars&theme=vue)](https://github.com/jordy1611/github-profile-trophy)
 
 ## My Languages
 <p float="left">

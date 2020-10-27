@@ -7,7 +7,9 @@
 * Turing School of Software Engineering student
 * Colorado State University Grad
 
+## Github Stats
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611)](https://github.com/jordy1611/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordy1611)](https://github.com/jordy1611/github-readme-stats)
 
 <!--
 **jordy1611/jordy1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

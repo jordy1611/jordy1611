@@ -8,7 +8,7 @@
 * Colorado State University Grad
 
 ## Github Stats
-[![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611)](https://github.com/jordy1611/github-readme-stats)
+[![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611&them=onedark)](https://github.com/jordy1611/github-readme-stats)
 [![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordy1611&layout=compact&theme=onedark)](https://github.com/jordy1611/github-readme-stats)
 
 <!--

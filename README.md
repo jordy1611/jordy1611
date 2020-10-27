@@ -11,6 +11,8 @@
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611&theme=onedark)](https://github.com/jordy1611/github-readme-stats)
 [![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordy1611&layout=compact&theme=onedark)](https://github.com/jordy1611/github-readme-stats)
 
+## My Trophies!
+[![Jordan's Tophies](https://github-profile-trophy.vercel.app/?username=jordy1611&theme=onedark)](https://github.com/jordy1611/github-profile-trophy)
 <!--
 **jordy1611/jordy1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

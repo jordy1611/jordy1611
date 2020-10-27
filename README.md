@@ -8,8 +8,8 @@
 * Colorado State University Grad
 
 ## My Stats(
-[[Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611&theme=vue)](https://github.com/jordy1611/github-readme-stats)
-[[Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordy1611&layout=compact&theme=vue)](https://github.com/jordy1611/github-readme-stats)
+[![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611&theme=vue)](https://github.com/jordy1611/github-readme-stats)
+[![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordy1611&layout=compact&theme=vue)](https://github.com/jordy1611/github-readme-stats)
 
 ## My Trophies
 [![Jordan's Tophies](https://github-profile-trophy.vercel.app/?username=jordy1611&theme=vue)](https://github.com/jordy1611/github-profile-trophy)

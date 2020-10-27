@@ -13,6 +13,9 @@
 
 ## My Trophies!
 [![Jordan's Tophies](https://github-profile-trophy.vercel.app/?username=jordy1611&theme=onedark)](https://github.com/jordy1611/github-profile-trophy)
+
+## Languages
+[github-languages-image]: https://img.shields.io/github/languages/top/commonality/getting-started-inner-source.svg?style=flat-square
 <!--
 **jordy1611/jordy1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

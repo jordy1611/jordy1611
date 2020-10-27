@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! I'm Jordan!
+
+## About Me
+* Full stack software engineer
+* Always looking for the next challenge and opportunity to learn
+* Live in Denver and grew up in Colorado
+* Turing School of Software Engineering student
+* Colorado State University Grad
+
+[![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611)](https://github.com/jordy1611/github-readme-stats)
 
 <!--
 **jordy1611/jordy1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

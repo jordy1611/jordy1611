@@ -7,7 +7,7 @@
 * Turing School of Software Engineering student
 * Colorado State University Grad
 
-## My Stats(
+## My Stats
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611&theme=vue)](https://github.com/jordy1611/github-readme-stats)
 [![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordy1611&layout=compact&theme=vue)](https://github.com/jordy1611/github-readme-stats)
 
@@ -34,6 +34,6 @@
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 
-## Connect With Me
+## Let's Connect
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jordan-shryock-6a48b9113/)
 

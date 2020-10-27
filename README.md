@@ -7,14 +7,14 @@
 * Turing School of Software Engineering student
 * Colorado State University Grad
 
-## Github Stats
+## My Stats
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611&theme=onedark)](https://github.com/jordy1611/github-readme-stats)
 [![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordy1611&layout=compact&theme=onedark)](https://github.com/jordy1611/github-readme-stats)
 
-## My Trophies!
+## My Trophies
 [![Jordan's Tophies](https://github-profile-trophy.vercel.app/?username=jordy1611&theme=onedark)](https://github.com/jordy1611/github-profile-trophy)
 
-## Languages
+## My Languages
 <p float="left">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -31,21 +31,11 @@
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 <img src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 
 ## Connect With Me
+<p float="left">
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jordan-shryock-6a48b9113/)
-<!--
-**jordy1611/jordy1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

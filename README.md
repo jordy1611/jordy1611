@@ -36,6 +36,6 @@
 
 ## Connect With Me
 <p float="left">
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jordan-shryock-6a48b9113/)
+![<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jordan-shryock-6a48b9113/)
 </p>
 

@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>
 
 ## Connect With Me
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jordan-shryock-6a48b9113/)
 <!--
 **jordy1611/jordy1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

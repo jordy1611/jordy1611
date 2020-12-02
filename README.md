@@ -4,7 +4,7 @@
 * Full stack software engineer
 * Always looking for the next challenge and opportunity to learn
 * Live in Denver and grew up in Colorado
-* Turing School of Software Engineering student
+* Turing School of Software Engineering Grad
 * Colorado State University Grad
 
 ## My Stats

@@ -7,6 +7,8 @@
 * Turing School of Software Engineering Grad
 * Colorado State University Grad
 
+## My Site
+
 ## My Stats
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordy1611&theme=vue)](https://github.com/jordy1611/github-readme-stats)
 [![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordy1611&langs_count=5&theme=vue&layout=compact)](https://github.com/jordy1611/github-readme-stats)
